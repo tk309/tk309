@@ -14,10 +14,10 @@
 
 ---
 
-## [cite_start]SKILLS [cite: 5]
-[cite_start]![Mobile Photography](https://img.shields.io/badge/Mobile_Photography-camera?style=for-the-badge&logo=googlephotos&logoColor=white&color=black) [cite: 6]
-[cite_start]![Graphic Design](https://img.shields.io/badge/Graphic_Design-art?style=for-the-badge&logo=artstation&logoColor=white&color=ff69b4) [cite: 7]
-[cite_start]![Python](https://img.shields.io/badge/Python-Programming-blue?style=for-the-badge&logo=python&logoColor=white) [cite: 8]
+## SKILLS
+![Mobile Photography](https://img.shields.io/badge/Mobile_Photography-camera?style=for-the-badge&logo=googlephotos&logoColor=white&color=black)
+![Graphic Design](https://img.shields.io/badge/Graphic_Design-art?style=for-the-badge&logo=artstation&logoColor=white&color=ff69b4)
+![Python](https://img.shields.io/badge/Python-Programming-blue?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
