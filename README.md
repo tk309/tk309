@@ -6,11 +6,11 @@
 
 ---
 
-# [cite_start]TIMOTHY KEMIKI [cite: 1]
+# TIMOTHY KEMIKI
 
-## [cite_start]PERSONAL PROFILE [cite: 2]
-- [cite_start]A student of the Federal University of Technology, Minna of the department of Physics-Electronics. [cite: 3]
-- [cite_start]A Music Director of the DLCF Bosso Campus, Minna. [cite: 4]
+## PERSONAL PROFILE
+- A student of the Federal University of Technology, Minna of the department of Physics-Electronics.
+- A Music Director of the DLCF Bosso Campus, Minna.
 
 ---
 
