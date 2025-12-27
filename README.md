@@ -21,20 +21,20 @@
 
 ---
 
-## [cite_start]WORK EXPERIENCE [cite: 10]
+## WORK EXPERIENCE
 
-### [cite_start]LUPAC X OFEMZ PHOTOGRAPHY CHALLENGE (2024) [cite: 15]
-- [cite_start]**February Challenge**: One of the directors for the short movie titled "Moments of Eternity: A Tale of Unyielding Love". [cite: 15]
-- [cite_start]Took mobile shots of the movie scenes. [cite: 16]
-- [cite_start]**April Challenge**: Worked on a career photoshoot alongside professional models and Photographers as one of the Director of Photography. [cite: 17]
+### LUPAC X OFEMZ PHOTOGRAPHY CHALLENGE (2024)
+- **February Challenge**: One of the directors for the short movie titled "Moments of Eternity: A Tale of Unyielding Love".
+- Took mobile shots of the movie scenes.
+- **April Challenge**: Worked on a career photoshoot alongside professional models and Photographers as one of the Director of Photography.
 
-### [cite_start]FLYER DESIGNS (2024) [cite: 18]
-- [cite_start]Designed the flyer for "MERCY" by Enat featuring Esther. [cite: 20]
-- [cite_start]Designed the company flyer for "TEHILA HITECH". [cite: 22]
+### FLYER DESIGNS (2024)
+- Designed the flyer for "MERCY" by Enat featuring Esther.
+- Designed the company flyer for "TEHILA HITECH".
 
-### [cite_start]CS50 PROGRAM [cite: 22]
-- [cite_start]Implemented the "Color Name Converter (CNC)" program as a final project for CS50P. [cite: 24]
-- [cite_start]The program converts color names to their respective hex codes and vice versa. [cite: 24, 26]
+### CS50 PROGRAM CLASS
+- Implemented the "Color Name Converter (CNC)" program as a final project for CS50P.
+- The program converts color names to their respective hex codes and vice versa.
 
 ---
 
