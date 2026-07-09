@@ -38,14 +38,13 @@
 
 ---
 
-## [cite_start]LANGUAGES [cite: 9]
-- [cite_start]English [cite: 11]
-- [cite_start]Yoruba [cite: 12]
-- [cite_start]Hausa [cite: 13]
+## LANGUAGES
+- English
+- Yoruba
+- Hausa
 
 ---
 
-## [cite_start]CONTACT DETAILS [cite: 14]
-- [cite_start]**Phone**: +234-818-967-6668 [cite: 19]
-- [cite_start]**Location**: Niger state, Nigeria [cite: 21]
-- [cite_start]**Email**: kemyguy14@gmail.com [cite: 23]
+## CONTACT DETAILS
+- **Phone(WhatsApp)**: +234-818-967-6668
+- **Email**: timothykemiki@gmail.com
