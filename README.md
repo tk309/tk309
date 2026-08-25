@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on UNET Models...
-- 🌱 I’m currently learning Classical-Quantum Computing...
-- 🤔 I’m looking for help with Segmentation
+- 🔭 Currently working on UNET Models...
+- 🌱 Currently learning Classical-Quantum Computing...
+- 🤔 I’m looking for assistance/collaboration with Segmentation in model building
 
 ---
 
 # TIMOTHY KEMIKI
 
 ## PERSONAL PROFILE
-- A student of the Federal University of Technology, Minna of the department of Physics-Electronics.
-- A Music Director of the DLCF Bosso Campus, Minna.
+- A gradaute student at the Federal University of Technology, Minna of the department of Physics-Electronics.
+- Python programmer, Model building and optimazation
 
 ---
 
